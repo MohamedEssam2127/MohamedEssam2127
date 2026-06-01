@@ -45,13 +45,11 @@ Dedicated and detail-oriented Software Developer with a solid academic foundatio
 
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedEssam2127&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Mohamed's Stats" />
-</p>
+![Top Langs All](https://stats-github-readme.vercel.app/api/top-langs?username=mohamedessam2127&layout=compact&theme=dracula&langs_count=999)
+
 
 ---
 
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-essam-931112266)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed353essam@gmail.com)
-![Top Langs All](https://stats-github-readme.vercel.app/api/top-langs?username=mohamedessam2127&layout=compact&theme=dracula&langs_count=999)
